@@ -1,0 +1,915 @@
+models-eegLib/Deep,OpenBCISession_2020-02-06_11-26-48-TWO-2000ep-2000ep-2000ep.h5,False, 0,41,0,0
+,,,0,82,0,0
+,,,0,74,0,0
+,,,0,25,0,0
+
+models-eegLib/Deep,OpenBCISession_2020-02-06_12-08-05-THREE-2000ep-2000ep-2000ep.h5,False, 41,0,0,0
+,,,82,0,0,0
+,,,75,0,0,0
+,,,25,0,0,0
+
+models-eegLib/Deep,OpenBCISession_2020-02-07_10-42-36-FOUR.2-2000ep-2000ep-2000ep.h5,False, 41,0,0,0
+,,,82,0,0,0
+,,,75,0,0,0
+,,,24,0,1,0
+
+models-eegLib/Deep,OpenBCISession_2020-02-07_11-12-39-FIVE-2000ep-2000ep-2000ep.h5,False, 1,0,40,0
+,,,2,8,72,0
+,,,3,17,55,0
+,,,1,11,13,0
+
+models-eegLib/Deep,OpenBCISession_2020-02-07_12-09-54-SIX-2000ep-2000ep-2000ep.h5,False, 0,0,41,0
+,,,0,0,82,0
+,,,0,0,74,0
+,,,0,0,25,0
+
+models-eegLib/Deep,OpenBCISession_2020-02-10_10-55-19=ONE.2-2000ep-2000ep-2000ep.h5,False, 40,0,0,1
+,,,80,0,0,2
+,,,72,0,0,2
+,,,24,0,0,1
+
+models-eegLib/Deep,OpenBCISession_2020-02-14_11-09-00-SEVEN-2000ep-2000ep-2000ep.h5,False, 38,3,0,0
+,,,80,1,0,1
+,,,58,17,0,0
+,,,24,1,0,0
+
+models-eegLib/Deep,OpenBCISession_2020-02-14_11-43-46-EIGHT-2000ep-2000ep-2000ep.h5,False, 0,0,0,41
+,,,0,0,0,82
+,,,0,0,0,76
+,,,0,0,0,25
+
+models-eegLib/Deep,OpenBCISession_2020-02-23_16-49-310-VIR-2000ep-2000ep-2000ep.h5,False, 1,0,0,40
+,,,0,1,0,81
+,,,0,1,1,73
+,,,0,0,0,25
+
+models-eegLib/Deep,OpenBCISession_2020-02-23_18-14-52-ISH-2000ep-2000ep-2000ep.h5,False, 1,40,0,0
+,,,2,80,0,0
+,,,4,72,0,0
+,,,1,24,0,0
+
+models-eegLib/Deep,OpenBCISession_2020-02-29_17-19-28-ELI-2000ep-2000ep-2000ep.h5,False, 0,0,41,0
+,,,0,0,82,0
+,,,0,0,75,0
+,,,0,0,25,0
+
+models-eegLib/Deep,OpenBCISession_2020-02-29_17-51-57-BAHAR-2000ep-2000ep-2000ep.h5,False, 0,40,0,1
+,,,0,80,0,2
+,,,0,72,0,2
+,,,0,24,0,1
+
+models-eegLib/Deep,OpenBCISession_2020-03-06_10-28-17-LUKE-2000ep-2000ep-2000ep.h5,False, 1,0,40,0
+,,,2,0,80,0
+,,,2,0,72,0
+,,,1,0,24,0
+
+models-eegLib/Shallow,OpenBCISession_2020-02-06_11-26-48-TWO-2000ep-2000ep.h5,False, 0,0,41,0
+,,,0,0,82,0
+,,,0,0,74,0
+,,,0,0,25,0
+
+models-eegLib/Shallow,OpenBCISession_2020-02-06_12-08-05-THREE-2000ep-2000ep.h5,False, 41,0,0,0
+,,,82,0,0,0
+,,,75,0,0,0
+,,,25,0,0,0
+
+models-eegLib/Shallow,OpenBCISession_2020-02-07_10-42-36-FOUR.2-2000ep-2000ep.h5,False, 41,0,0,0
+,,,82,0,0,0
+,,,75,0,0,0
+,,,25,0,0,0
+
+models-eegLib/Shallow,OpenBCISession_2020-02-07_11-12-39-FIVE-2000ep-2000ep.h5,False, 0,41,0,0
+,,,0,82,0,0
+,,,0,75,0,0
+,,,0,25,0,0
+
+models-eegLib/Shallow,OpenBCISession_2020-02-07_12-09-54-SIX-2000ep-2000ep.h5,False, 1,40,0,0
+,,,10,72,0,0
+,,,25,44,0,5
+,,,1,24,0,0
+
+models-eegLib/Shallow,OpenBCISession_2020-02-10_10-55-19=ONE.2-2000ep-2000ep.h5,False, 41,0,0,0
+,,,82,0,0,0
+,,,74,0,0,0
+,,,25,0,0,0
+
+models-eegLib/Shallow,OpenBCISession_2020-02-14_11-09-00-SEVEN-2000ep-2000ep.h5,False, 0,41,0,0
+,,,0,82,0,0
+,,,0,75,0,0
+,,,0,25,0,0
+
+models-eegLib/Shallow,OpenBCISession_2020-02-14_11-43-46-EIGHT-2000ep-2000ep.h5,False, 41,0,0,0
+,,,82,0,0,0
+,,,76,0,0,0
+,,,25,0,0,0
+
+models-eegLib/Shallow,OpenBCISession_2020-02-23_16-49-310-VIR-2000ep-2000ep.h5,False, 0,41,0,0
+,,,0,82,0,0
+,,,0,75,0,0
+,,,0,25,0,0
+
+models-eegLib/Shallow,OpenBCISession_2020-02-23_18-14-52-ISH-2000ep-2000ep.h5,False, 0,0,41,0
+,,,0,0,82,0
+,,,0,0,76,0
+,,,0,0,25,0
+
+models-eegLib/Shallow,OpenBCISession_2020-02-29_17-19-28-ELI-2000ep-2000ep.h5,False, 0,0,41,0
+,,,0,0,82,0
+,,,0,0,75,0
+,,,0,0,25,0
+
+models-eegLib/Shallow,OpenBCISession_2020-02-29_17-51-57-BAHAR-2000ep-2000ep.h5,False, 41,0,0,0
+,,,82,0,0,0
+,,,73,0,0,1
+,,,25,0,0,0
+
+models-eegLib/Shallow,OpenBCISession_2020-03-06_10-28-17-LUKE-2000ep-2000ep.h5,False, 0,41,0,0
+,,,0,82,0,0
+,,,0,74,0,0
+,,,0,25,0,0
+
+models-eegLib/EEGNet,OpenBCISession_2020-02-06_11-26-48-TWO-2000ep.h5,False, 0,0,41,0
+,,,0,0,82,0
+,,,0,0,74,0
+,,,0,0,25,0
+
+models-eegLib/EEGNet,OpenBCISession_2020-02-06_12-08-05-THREE-2000ep.h5,False, 0,0,41,0
+,,,0,0,82,0
+,,,0,0,75,0
+,,,0,0,25,0
+
+models-eegLib/EEGNet,OpenBCISession_2020-02-07_10-42-36-FOUR.2-2000ep.h5,False, 40,0,1,0
+,,,68,0,14,0
+,,,47,0,28,0
+,,,24,0,1,0
+
+models-eegLib/EEGNet,OpenBCISession_2020-02-07_11-12-39-FIVE-2000ep.h5,False, 1,0,0,40
+,,,2,0,0,80
+,,,1,1,2,71
+,,,0,0,1,24
+
+models-eegLib/EEGNet,OpenBCISession_2020-02-07_12-09-54-SIX-2000ep.h5,False, 0,0,40,1
+,,,0,2,80,0
+,,,0,1,73,0
+,,,0,0,24,1
+
+models-eegLib/EEGNet,OpenBCISession_2020-02-10_10-55-19=ONE.2-2000ep.h5,False, 0,0,41,0
+,,,0,0,82,0
+,,,0,0,72,2
+,,,0,0,24,1
+
+models-eegLib/EEGNet,OpenBCISession_2020-02-14_11-09-00-SEVEN-2000ep.h5,False, 1,0,40,0
+,,,2,0,80,0
+,,,3,0,72,0
+,,,1,0,24,0
+
+models-eegLib/EEGNet,OpenBCISession_2020-02-14_11-43-46-EIGHT-2000ep.h5,False, 0,1,40,0
+,,,0,2,80,0
+,,,0,4,72,0
+,,,0,1,24,0
+
+models-eegLib/EEGNet,OpenBCISession_2020-02-23_16-49-310-VIR-2000ep.h5,False, 40,0,0,1
+,,,80,0,0,2
+,,,72,0,0,3
+,,,24,0,0,1
+
+models-eegLib/EEGNet,OpenBCISession_2020-02-23_18-14-52-ISH-2000ep.h5,False, 0,0,41,0
+,,,0,0,82,0
+,,,0,0,76,0
+,,,0,0,25,0
+
+models-eegLib/EEGNet,OpenBCISession_2020-02-29_17-19-28-ELI-2000ep.h5,False, 0,0,41,0
+,,,0,0,82,0
+,,,0,0,74,1
+,,,0,0,25,0
+
+models-eegLib/EEGNet,OpenBCISession_2020-02-29_17-51-57-BAHAR-2000ep.h5,False, 0,0,1,40
+,,,0,36,2,44
+,,,0,30,2,42
+,,,0,24,1,0
+
+models-eegLib/EEGNet,OpenBCISession_2020-03-06_10-28-17-LUKE-2000ep.h5,False, 41,0,0,0
+,,,82,0,0,0
+,,,74,0,0,0
+,,,25,0,0,0
+
+models-eegLib/Deep,OpenBCISession_2020-02-06_11-26-48-TWO-2000ep-2000ep-2000ep.h5,True, 40,0,1,0
+,,,80,0,2,0
+,,,70,2,2,0
+,,,24,1,0,0
+
+models-eegLib/Deep,OpenBCISession_2020-02-06_12-08-05-THREE-2000ep-2000ep-2000ep.h5,True, 41,0,0,0
+,,,80,0,2,0
+,,,71,0,4,0
+,,,21,0,3,1
+
+models-eegLib/Deep,OpenBCISession_2020-02-07_10-42-36-FOUR.2-2000ep-2000ep-2000ep.h5,True, 0,41,0,0
+,,,1,81,0,0
+,,,1,74,0,0
+,,,0,25,0,0
+
+models-eegLib/Deep,OpenBCISession_2020-02-07_11-12-39-FIVE-2000ep-2000ep-2000ep.h5,True, 7,0,29,5
+,,,15,0,58,9
+,,,10,1,52,12
+,,,2,0,19,4
+
+models-eegLib/Deep,OpenBCISession_2020-02-07_12-09-54-SIX-2000ep-2000ep-2000ep.h5,True, 18,10,11,2
+,,,36,20,23,3
+,,,29,24,18,3
+,,,10,7,8,0
+
+models-eegLib/Deep,OpenBCISession_2020-02-10_10-55-19=ONE.2-2000ep-2000ep-2000ep.h5,True, 12,5,19,5
+,,,20,7,37,18
+,,,29,8,27,10
+,,,6,1,14,4
+
+models-eegLib/Deep,OpenBCISession_2020-02-14_11-09-00-SEVEN-2000ep-2000ep-2000ep.h5,True, 6,1,0,34
+,,,14,1,0,67
+,,,16,2,0,57
+,,,7,1,0,17
+
+models-eegLib/Deep,OpenBCISession_2020-02-14_11-43-46-EIGHT-2000ep-2000ep-2000ep.h5,True, 0,37,0,4
+,,,2,69,0,11
+,,,5,66,0,5
+,,,1,18,0,6
+
+models-eegLib/Deep,OpenBCISession_2020-02-23_16-49-310-VIR-2000ep-2000ep-2000ep.h5,True, 15,1,0,25
+,,,17,2,0,63
+,,,27,4,0,44
+,,,9,0,1,15
+
+models-eegLib/Deep,OpenBCISession_2020-02-23_18-14-52-ISH-2000ep-2000ep-2000ep.h5,True, 0,0,0,41
+,,,0,0,0,82
+,,,0,0,0,76
+,,,0,0,0,25
+
+models-eegLib/Deep,OpenBCISession_2020-02-29_17-19-28-ELI-2000ep-2000ep-2000ep.h5,True, 40,0,1,0
+,,,80,0,2,0
+,,,72,0,3,0
+,,,24,0,1,0
+
+models-eegLib/Deep,OpenBCISession_2020-02-29_17-51-57-BAHAR-2000ep-2000ep-2000ep.h5,True, 37,0,0,4
+,,,77,3,0,2
+,,,69,5,0,0
+,,,21,3,0,1
+
+models-eegLib/Deep,OpenBCISession_2020-03-06_10-28-17-LUKE-2000ep-2000ep-2000ep.h5,True, 0,1,31,9
+,,,0,0,50,32
+,,,0,2,48,24
+,,,0,0,16,9
+
+models-eegLib/Shallow,OpenBCISession_2020-02-06_11-26-48-TWO-2000ep-2000ep.h5,True, 1,0,0,40
+,,,2,0,0,80
+,,,0,2,2,70
+,,,1,0,0,24
+
+models-eegLib/Shallow,OpenBCISession_2020-02-06_12-08-05-THREE-2000ep-2000ep.h5,True, 0,0,41,0
+,,,0,0,82,0
+,,,0,0,75,0
+,,,0,0,25,0
+
+models-eegLib/Shallow,OpenBCISession_2020-02-07_10-42-36-FOUR.2-2000ep-2000ep.h5,True, 0,41,0,0
+,,,0,82,0,0
+,,,0,75,0,0
+,,,0,25,0,0
+
+models-eegLib/Shallow,OpenBCISession_2020-02-07_11-12-39-FIVE-2000ep-2000ep.h5,True, 7,0,0,34
+,,,16,0,1,65
+,,,13,0,0,62
+,,,0,0,0,25
+
+models-eegLib/Shallow,OpenBCISession_2020-02-07_12-09-54-SIX-2000ep-2000ep.h5,True, 2,28,0,11
+,,,4,57,0,21
+,,,1,52,0,21
+,,,0,16,0,9
+
+models-eegLib/Shallow,OpenBCISession_2020-02-10_10-55-19=ONE.2-2000ep-2000ep.h5,True, 0,3,38,0
+,,,0,13,69,0
+,,,0,2,72,0
+,,,0,4,21,0
+
+models-eegLib/Shallow,OpenBCISession_2020-02-14_11-09-00-SEVEN-2000ep-2000ep.h5,True, 0,1,40,0
+,,,0,1,81,0
+,,,0,10,65,0
+,,,0,2,23,0
+
+models-eegLib/Shallow,OpenBCISession_2020-02-14_11-43-46-EIGHT-2000ep-2000ep.h5,True, 40,0,1,0
+,,,81,0,0,1
+,,,75,0,0,1
+,,,25,0,0,0
+
+models-eegLib/Shallow,OpenBCISession_2020-02-23_16-49-310-VIR-2000ep-2000ep.h5,True, 0,25,1,15
+,,,1,56,4,21
+,,,0,50,5,20
+,,,1,16,1,7
+
+models-eegLib/Shallow,OpenBCISession_2020-02-23_18-14-52-ISH-2000ep-2000ep.h5,True, 0,0,0,41
+,,,0,0,0,82
+,,,0,0,0,76
+,,,0,0,0,25
+
+models-eegLib/Shallow,OpenBCISession_2020-02-29_17-19-28-ELI-2000ep-2000ep.h5,True, 0,40,0,1
+,,,0,80,0,2
+,,,0,72,0,3
+,,,0,24,0,1
+
+models-eegLib/Shallow,OpenBCISession_2020-02-29_17-51-57-BAHAR-2000ep-2000ep.h5,True, 9,18,13,1
+,,,18,37,22,5
+,,,16,39,16,3
+,,,6,15,4,0
+
+models-eegLib/Shallow,OpenBCISession_2020-03-06_10-28-17-LUKE-2000ep-2000ep.h5,True, 1,2,6,32
+,,,8,4,6,64
+,,,10,6,7,51
+,,,1,0,1,23
+
+models-eegLib/EEGNet,OpenBCISession_2020-02-06_11-26-48-TWO-2000ep.h5,True, 41,0,0,0
+,,,82,0,0,0
+,,,74,0,0,0
+,,,25,0,0,0
+
+models-eegLib/EEGNet,OpenBCISession_2020-02-06_12-08-05-THREE-2000ep.h5,True, 2,24,0,15
+,,,2,51,0,29
+,,,0,32,0,43
+,,,4,13,0,8
+
+models-eegLib/EEGNet,OpenBCISession_2020-02-07_10-42-36-FOUR.2-2000ep.h5,True, 0,2,1,38
+,,,3,5,1,73
+,,,0,6,5,64
+,,,0,4,2,19
+
+models-eegLib/EEGNet,OpenBCISession_2020-02-07_11-12-39-FIVE-2000ep.h5,True, 5,0,26,10
+,,,14,0,41,27
+,,,6,0,42,27
+,,,3,0,17,5
+
+models-eegLib/EEGNet,OpenBCISession_2020-02-07_12-09-54-SIX-2000ep.h5,True, 7,8,18,8
+,,,14,12,45,11
+,,,5,13,37,19
+,,,3,8,10,4
+
+models-eegLib/EEGNet,OpenBCISession_2020-02-10_10-55-19=ONE.2-2000ep.h5,True, 3,1,0,37
+,,,6,3,0,73
+,,,11,3,0,60
+,,,1,2,0,22
+
+models-eegLib/EEGNet,OpenBCISession_2020-02-14_11-09-00-SEVEN-2000ep.h5,True, 0,0,0,41
+,,,0,0,0,82
+,,,0,2,0,73
+,,,0,0,0,25
+
+models-eegLib/EEGNet,OpenBCISession_2020-02-14_11-43-46-EIGHT-2000ep.h5,True, 12,16,8,5
+,,,16,46,14,6
+,,,30,29,7,10
+,,,8,13,0,4
+
+models-eegLib/EEGNet,OpenBCISession_2020-02-23_16-49-310-VIR-2000ep.h5,True, 0,14,17,10
+,,,2,16,36,28
+,,,5,19,28,23
+,,,1,4,12,8
+
+models-eegLib/EEGNet,OpenBCISession_2020-02-23_18-14-52-ISH-2000ep.h5,True, 18,0,0,23
+,,,47,0,0,35
+,,,43,0,1,32
+,,,18,0,0,7
+
+models-eegLib/EEGNet,OpenBCISession_2020-02-29_17-19-28-ELI-2000ep.h5,True, 40,0,0,1
+,,,80,0,0,2
+,,,71,0,1,3
+,,,24,0,0,1
+
+models-eegLib/EEGNet,OpenBCISession_2020-02-29_17-51-57-BAHAR-2000ep.h5,True, 18,7,5,11
+,,,30,13,23,16
+,,,28,12,16,18
+,,,10,1,6,8
+
+models-eegLib/EEGNet,OpenBCISession_2020-03-06_10-28-17-LUKE-2000ep.h5,True, 9,15,13,4
+,,,22,20,29,11
+,,,16,27,20,11
+,,,2,15,6,2
+
+models-eegLib-pure/Deep,OpenBCISession_2020-02-06_11-26-48-TWO-2000ep-2000ep-2000ep.h5,True, 41,0,0,0
+,,,82,0,0,0
+,,,70,0,4,0
+,,,25,0,0,0
+
+models-eegLib-pure/Deep,OpenBCISession_2020-02-06_12-08-05-THREE-2000ep-2000ep-2000ep.h5,True, 0,5,17,19
+,,,0,9,36,37
+,,,0,6,45,24
+,,,0,1,12,12
+
+models-eegLib-pure/Deep,OpenBCISession_2020-02-07_10-42-36-FOUR.2-2000ep-2000ep-2000ep.h5,True, 16,0,17,8
+,,,20,0,35,27
+,,,17,0,39,19
+,,,7,0,13,5
+
+models-eegLib-pure/Deep,OpenBCISession_2020-02-07_11-12-39-FIVE-2000ep-2000ep-2000ep.h5,True, 1,7,29,4
+,,,2,11,64,5
+,,,1,14,55,5
+,,,0,4,20,1
+
+models-eegLib-pure/Deep,OpenBCISession_2020-02-07_12-09-54-SIX-2000ep-2000ep-2000ep.h5,True, 0,39,0,2
+,,,1,72,2,7
+,,,1,68,1,4
+,,,0,22,0,3
+
+models-eegLib-pure/Deep,OpenBCISession_2020-02-10_10-55-19=ONE.2-2000ep-2000ep-2000ep.h5,True, 38,0,3,0
+,,,75,4,3,0
+,,,63,7,3,1
+,,,24,0,1,0
+
+models-eegLib-pure/Deep,OpenBCISession_2020-02-14_11-09-00-SEVEN-2000ep-2000ep-2000ep.h5,True, 41,0,0,0
+,,,82,0,0,0
+,,,74,0,1,0
+,,,25,0,0,0
+
+models-eegLib-pure/Deep,OpenBCISession_2020-02-14_11-43-46-EIGHT-2000ep-2000ep-2000ep.h5,True, 0,4,35,2
+,,,4,2,73,3
+,,,1,2,68,5
+,,,0,5,20,0
+
+models-eegLib-pure/Deep,OpenBCISession_2020-02-23_16-49-310-VIR-2000ep-2000ep-2000ep.h5,True, 8,27,0,6
+,,,7,66,2,7
+,,,7,46,4,18
+,,,3,21,1,0
+
+models-eegLib-pure/Deep,OpenBCISession_2020-02-23_18-14-52-ISH-2000ep-2000ep-2000ep.h5,True, 38,2,1,0
+,,,77,5,0,0
+,,,64,11,0,1
+,,,24,1,0,0
+
+models-eegLib-pure/Deep,OpenBCISession_2020-02-29_17-19-28-ELI-2000ep-2000ep-2000ep.h5,True, 40,0,0,1
+,,,80,0,0,2
+,,,72,0,0,3
+,,,24,0,0,1
+
+models-eegLib-pure/Deep,OpenBCISession_2020-02-29_17-51-57-BAHAR-2000ep-2000ep-2000ep.h5,True, 23,0,6,12
+,,,29,0,18,35
+,,,32,0,12,30
+,,,11,0,7,7
+
+models-eegLib-pure/Deep,OpenBCISession_2020-03-06_10-28-17-LUKE-2000ep-2000ep-2000ep.h5,True, 7,4,24,6
+,,,24,6,29,23
+,,,10,9,36,19
+,,,5,1,11,8
+
+models-eegLib-pure/Shallow,OpenBCISession_2020-02-06_11-26-48-TWO-2000ep-2000ep.h5,True, 40,0,1,0
+,,,80,0,2,0
+,,,70,0,2,2
+,,,24,0,1,0
+
+models-eegLib-pure/Shallow,OpenBCISession_2020-02-06_12-08-05-THREE-2000ep-2000ep.h5,True, 0,0,0,41
+,,,2,0,0,80
+,,,4,0,0,71
+,,,0,0,0,25
+
+models-eegLib-pure/Shallow,OpenBCISession_2020-02-07_10-42-36-FOUR.2-2000ep-2000ep.h5,True, 0,0,41,0
+,,,0,0,82,0
+,,,1,0,74,0
+,,,0,0,25,0
+
+models-eegLib-pure/Shallow,OpenBCISession_2020-02-07_11-12-39-FIVE-2000ep-2000ep.h5,True, 8,33,0,0
+,,,9,73,0,0
+,,,5,70,0,0
+,,,8,17,0,0
+
+models-eegLib-pure/Shallow,OpenBCISession_2020-02-07_12-09-54-SIX-2000ep-2000ep.h5,True, 0,1,38,2
+,,,0,4,74,4
+,,,0,1,69,4
+,,,0,0,25,0
+
+models-eegLib-pure/Shallow,OpenBCISession_2020-02-10_10-55-19=ONE.2-2000ep-2000ep.h5,True, 0,31,0,10
+,,,0,60,1,21
+,,,0,52,1,21
+,,,0,19,0,6
+
+models-eegLib-pure/Shallow,OpenBCISession_2020-02-14_11-09-00-SEVEN-2000ep-2000ep.h5,True, 0,41,0,0
+,,,0,82,0,0
+,,,0,75,0,0
+,,,0,25,0,0
+
+models-eegLib-pure/Shallow,OpenBCISession_2020-02-14_11-43-46-EIGHT-2000ep-2000ep.h5,True, 0,0,18,23
+,,,1,1,40,40
+,,,0,0,31,45
+,,,0,0,14,11
+
+models-eegLib-pure/Shallow,OpenBCISession_2020-02-23_16-49-310-VIR-2000ep-2000ep.h5,True, 5,27,6,3
+,,,11,61,8,2
+,,,12,54,7,2
+,,,2,20,3,0
+
+models-eegLib-pure/Shallow,OpenBCISession_2020-02-23_18-14-52-ISH-2000ep-2000ep.h5,True, 0,0,38,3
+,,,0,1,75,6
+,,,1,0,71,4
+,,,0,0,25,0
+
+models-eegLib-pure/Shallow,OpenBCISession_2020-02-29_17-19-28-ELI-2000ep-2000ep.h5,True, 1,0,0,40
+,,,1,1,0,80
+,,,2,1,0,72
+,,,1,0,0,24
+
+models-eegLib-pure/Shallow,OpenBCISession_2020-02-29_17-51-57-BAHAR-2000ep-2000ep.h5,True, 0,0,41,0
+,,,1,0,81,0
+,,,5,0,69,0
+,,,1,0,24,0
+
+models-eegLib-pure/Shallow,OpenBCISession_2020-03-06_10-28-17-LUKE-2000ep-2000ep.h5,True, 3,2,29,7
+,,,5,2,56,19
+,,,3,2,58,11
+,,,5,1,16,3
+
+models-eegLib-pure/EEGNet,OpenBCISession_2020-02-06_11-26-48-TWO-2000ep.h5,True, 41,0,0,0
+,,,82,0,0,0
+,,,70,0,0,4
+,,,25,0,0,0
+
+models-eegLib-pure/EEGNet,OpenBCISession_2020-02-06_12-08-05-THREE-2000ep.h5,True, 5,5,24,7
+,,,10,9,45,18
+,,,10,7,37,21
+,,,0,2,17,6
+
+models-eegLib-pure/EEGNet,OpenBCISession_2020-02-07_10-42-36-FOUR.2-2000ep.h5,True, 0,16,25,0
+,,,0,46,36,0
+,,,0,31,43,1
+,,,0,12,13,0
+
+models-eegLib-pure/EEGNet,OpenBCISession_2020-02-07_11-12-39-FIVE-2000ep.h5,True, 2,10,20,9
+,,,3,22,43,14
+,,,3,17,39,16
+,,,3,6,13,3
+
+models-eegLib-pure/EEGNet,OpenBCISession_2020-02-07_12-09-54-SIX-2000ep.h5,True, 18,13,7,3
+,,,36,16,15,15
+,,,40,13,7,14
+,,,12,5,6,2
+
+models-eegLib-pure/EEGNet,OpenBCISession_2020-02-10_10-55-19=ONE.2-2000ep.h5,True, 25,6,0,10
+,,,57,9,0,16
+,,,48,9,1,16
+,,,19,1,0,5
+
+models-eegLib-pure/EEGNet,OpenBCISession_2020-02-14_11-09-00-SEVEN-2000ep.h5,True, 6,2,23,10
+,,,12,3,49,18
+,,,17,4,37,17
+,,,4,4,6,11
+
+models-eegLib-pure/EEGNet,OpenBCISession_2020-02-14_11-43-46-EIGHT-2000ep.h5,True, 17,1,16,7
+,,,28,0,33,21
+,,,30,1,26,19
+,,,3,0,9,13
+
+models-eegLib-pure/EEGNet,OpenBCISession_2020-02-23_16-49-310-VIR-2000ep.h5,True, 15,8,4,14
+,,,39,18,10,15
+,,,40,14,9,12
+,,,9,8,0,8
+
+models-eegLib-pure/EEGNet,OpenBCISession_2020-02-23_18-14-52-ISH-2000ep.h5,True, 21,16,0,4
+,,,31,40,3,8
+,,,32,38,2,4
+,,,9,14,1,1
+
+models-eegLib-pure/EEGNet,OpenBCISession_2020-02-29_17-19-28-ELI-2000ep.h5,True, 40,0,0,1
+,,,80,0,0,2
+,,,72,0,0,3
+,,,24,0,0,1
+
+models-eegLib-pure/EEGNet,OpenBCISession_2020-02-29_17-51-57-BAHAR-2000ep.h5,True, 7,19,4,11
+,,,20,32,9,21
+,,,15,33,11,15
+,,,12,7,2,4
+
+models-eegLib-pure/EEGNet,OpenBCISession_2020-03-06_10-28-17-LUKE-2000ep.h5,True, 4,13,11,13
+,,,11,23,19,29
+,,,4,26,24,20
+,,,1,12,6,6
+
+models-eegLib-pure/Deep,OpenBCISession_2020-02-06_11-26-48-TWO-2000ep-2000ep-2000ep.h5,False, 41,0,0,0
+,,,82,0,0,0
+,,,72,0,2,0
+,,,25,0,0,0
+
+models-eegLib-pure/Deep,OpenBCISession_2020-02-06_12-08-05-THREE-2000ep-2000ep-2000ep.h5,False, 0,41,0,0
+,,,0,82,0,0
+,,,0,75,0,0
+,,,0,25,0,0
+
+models-eegLib-pure/Deep,OpenBCISession_2020-02-07_10-42-36-FOUR.2-2000ep-2000ep-2000ep.h5,False, 0,1,40,0
+,,,0,2,80,0
+,,,0,0,75,0
+,,,0,1,24,0
+
+models-eegLib-pure/Deep,OpenBCISession_2020-02-07_11-12-39-FIVE-2000ep-2000ep-2000ep.h5,False, 0,40,1,0
+,,,0,80,2,0
+,,,0,72,3,0
+,,,0,24,1,0
+
+models-eegLib-pure/Deep,OpenBCISession_2020-02-07_12-09-54-SIX-2000ep-2000ep-2000ep.h5,False, 0,41,0,0
+,,,0,82,0,0
+,,,0,74,0,0
+,,,0,25,0,0
+
+models-eegLib-pure/Deep,OpenBCISession_2020-02-10_10-55-19=ONE.2-2000ep-2000ep-2000ep.h5,False, 0,40,1,0
+,,,0,80,2,0
+,,,0,72,2,0
+,,,0,24,1,0
+
+models-eegLib-pure/Deep,OpenBCISession_2020-02-14_11-09-00-SEVEN-2000ep-2000ep-2000ep.h5,False, 40,1,0,0
+,,,81,1,0,0
+,,,72,0,0,3
+,,,24,0,0,1
+
+models-eegLib-pure/Deep,OpenBCISession_2020-02-14_11-43-46-EIGHT-2000ep-2000ep-2000ep.h5,False, 0,40,0,1
+,,,0,80,0,2
+,,,0,72,0,4
+,,,0,25,0,0
+
+models-eegLib-pure/Deep,OpenBCISession_2020-02-23_16-49-310-VIR-2000ep-2000ep-2000ep.h5,False, 0,41,0,0
+,,,0,82,0,0
+,,,0,75,0,0
+,,,0,25,0,0
+
+models-eegLib-pure/Deep,OpenBCISession_2020-02-23_18-14-52-ISH-2000ep-2000ep-2000ep.h5,False, 0,40,0,1
+,,,0,80,0,2
+,,,0,72,0,4
+,,,0,24,0,1
+
+models-eegLib-pure/Deep,OpenBCISession_2020-02-29_17-19-28-ELI-2000ep-2000ep-2000ep.h5,False, 0,40,0,1
+,,,0,81,0,1
+,,,0,72,0,3
+,,,0,24,0,1
+
+models-eegLib-pure/Deep,OpenBCISession_2020-02-29_17-51-57-BAHAR-2000ep-2000ep-2000ep.h5,False, 2,38,0,1
+,,,14,66,1,1
+,,,3,69,0,2
+,,,0,24,0,1
+
+models-eegLib-pure/Deep,OpenBCISession_2020-03-06_10-28-17-LUKE-2000ep-2000ep-2000ep.h5,False, 41,0,0,0
+,,,82,0,0,0
+,,,74,0,0,0
+,,,25,0,0,0
+
+models-eegLib-pure/Shallow,OpenBCISession_2020-02-06_11-26-48-TWO-2000ep-2000ep.h5,False, 0,41,0,0
+,,,0,82,0,0
+,,,0,74,0,0
+,,,0,25,0,0
+
+models-eegLib-pure/Shallow,OpenBCISession_2020-02-06_12-08-05-THREE-2000ep-2000ep.h5,False, 41,0,0,0
+,,,82,0,0,0
+,,,75,0,0,0
+,,,25,0,0,0
+
+models-eegLib-pure/Shallow,OpenBCISession_2020-02-07_10-42-36-FOUR.2-2000ep-2000ep.h5,False, 0,0,0,41
+,,,0,0,0,82
+,,,0,0,0,75
+,,,0,0,0,25
+
+models-eegLib-pure/Shallow,OpenBCISession_2020-02-07_11-12-39-FIVE-2000ep-2000ep.h5,False, 0,0,41,0
+,,,0,0,82,0
+,,,0,0,71,4
+,,,0,0,25,0
+
+models-eegLib-pure/Shallow,OpenBCISession_2020-02-07_12-09-54-SIX-2000ep-2000ep.h5,False, 0,41,0,0
+,,,0,82,0,0
+,,,0,74,0,0
+,,,0,25,0,0
+
+models-eegLib-pure/Shallow,OpenBCISession_2020-02-10_10-55-19=ONE.2-2000ep-2000ep.h5,False, 41,0,0,0
+,,,82,0,0,0
+,,,74,0,0,0
+,,,25,0,0,0
+
+models-eegLib-pure/Shallow,OpenBCISession_2020-02-14_11-09-00-SEVEN-2000ep-2000ep.h5,False, 0,41,0,0
+,,,0,82,0,0
+,,,0,75,0,0
+,,,0,25,0,0
+
+models-eegLib-pure/Shallow,OpenBCISession_2020-02-14_11-43-46-EIGHT-2000ep-2000ep.h5,False, 0,41,0,0
+,,,0,82,0,0
+,,,0,76,0,0
+,,,0,25,0,0
+
+models-eegLib-pure/Shallow,OpenBCISession_2020-02-23_16-49-310-VIR-2000ep-2000ep.h5,False, 0,0,41,0
+,,,0,0,82,0
+,,,0,0,75,0
+,,,0,0,25,0
+
+models-eegLib-pure/Shallow,OpenBCISession_2020-02-23_18-14-52-ISH-2000ep-2000ep.h5,False, 8,0,0,33
+,,,40,0,0,42
+,,,18,0,0,58
+,,,0,0,0,25
+
+models-eegLib-pure/Shallow,OpenBCISession_2020-02-29_17-19-28-ELI-2000ep-2000ep.h5,False, 0,0,0,41
+,,,0,0,0,82
+,,,0,0,0,75
+,,,0,0,0,25
+
+models-eegLib-pure/Shallow,OpenBCISession_2020-02-29_17-51-57-BAHAR-2000ep-2000ep.h5,False, 0,0,0,41
+,,,0,0,0,82
+,,,0,0,0,74
+,,,0,0,0,25
+
+models-eegLib-pure/Shallow,OpenBCISession_2020-03-06_10-28-17-LUKE-2000ep-2000ep.h5,False, 0,40,0,1
+,,,0,80,0,2
+,,,3,69,0,2
+,,,0,24,0,1
+
+models-eegLib-pure/EEGNet,OpenBCISession_2020-02-06_11-26-48-TWO-2000ep.h5,False, 0,0,41,0
+,,,0,0,82,0
+,,,0,2,72,0
+,,,0,0,25,0
+
+models-eegLib-pure/EEGNet,OpenBCISession_2020-02-06_12-08-05-THREE-2000ep.h5,False, 40,1,0,0
+,,,80,2,0,0
+,,,72,3,0,0
+,,,24,1,0,0
+
+models-eegLib-pure/EEGNet,OpenBCISession_2020-02-07_10-42-36-FOUR.2-2000ep.h5,False, 40,1,0,0
+,,,80,2,0,0
+,,,72,3,0,0
+,,,24,1,0,0
+
+models-eegLib-pure/EEGNet,OpenBCISession_2020-02-07_11-12-39-FIVE-2000ep.h5,False, 41,0,0,0
+,,,82,0,0,0
+,,,75,0,0,0
+,,,25,0,0,0
+
+models-eegLib-pure/EEGNet,OpenBCISession_2020-02-07_12-09-54-SIX-2000ep.h5,False, 0,41,0,0
+,,,0,82,0,0
+,,,0,74,0,0
+,,,0,25,0,0
+
+models-eegLib-pure/EEGNet,OpenBCISession_2020-02-10_10-55-19=ONE.2-2000ep.h5,False, 0,0,41,0
+,,,0,0,82,0
+,,,0,0,74,0
+,,,24,0,1,0
+
+models-eegLib-pure/EEGNet,OpenBCISession_2020-02-14_11-09-00-SEVEN-2000ep.h5,False, 0,0,0,41
+,,,0,0,0,82
+,,,0,0,0,75
+,,,0,0,0,25
+
+models-eegLib-pure/EEGNet,OpenBCISession_2020-02-14_11-43-46-EIGHT-2000ep.h5,False, 1,0,40,0
+,,,2,0,80,0
+,,,0,0,76,0
+,,,1,0,24,0
+
+models-eegLib-pure/EEGNet,OpenBCISession_2020-02-23_16-49-310-VIR-2000ep.h5,False, 0,0,40,1
+,,,0,0,80,2
+,,,0,0,72,3
+,,,0,0,24,1
+
+models-eegLib-pure/EEGNet,OpenBCISession_2020-02-23_18-14-52-ISH-2000ep.h5,False, 0,41,0,0
+,,,0,82,0,0
+,,,0,76,0,0
+,,,0,25,0,0
+
+models-eegLib-pure/EEGNet,OpenBCISession_2020-02-29_17-19-28-ELI-2000ep.h5,False, 0,41,0,0
+,,,0,82,0,0
+,,,0,74,1,0
+,,,0,25,0,0
+
+models-eegLib-pure/EEGNet,OpenBCISession_2020-02-29_17-51-57-BAHAR-2000ep.h5,False, 0,41,0,0
+,,,0,82,0,0
+,,,0,74,0,0
+,,,0,25,0,0
+
+models-eegLib-pure/EEGNet,OpenBCISession_2020-03-06_10-28-17-LUKE-2000ep.h5,False, 0,0,40,1
+,,,0,0,80,2
+,,,0,0,72,2
+,,,0,0,24,1
+
+models-eegLib-high/Deep,OpenBCISession_2020-02-06_11-26-48-TWO-2000ep-2000ep-2000ep.h5,True, 41,0,0,0
+,,,82,0,0,0
+,,,72,0,0,2
+,,,24,1,0,0
+
+models-eegLib-high/Deep,OpenBCISession_2020-02-06_12-08-05-THREE-2000ep-2000ep-2000ep.h5,True, 13,10,4,14
+,,,25,17,6,34
+,,,17,18,9,31
+,,,6,5,1,13
+
+models-eegLib-high/Deep,OpenBCISession_2020-02-07_10-42-36-FOUR.2-2000ep-2000ep-2000ep.h5,True, 4,23,14,0
+,,,18,45,19,0
+,,,19,42,14,0
+,,,7,14,4,0
+
+models-eegLib-high/Deep,OpenBCISession_2020-02-07_11-12-39-FIVE-2000ep-2000ep-2000ep.h5,True, 7,6,3,25
+,,,2,12,6,62
+,,,12,11,5,47
+,,,2,3,1,19
+
+models-eegLib-high/Deep,OpenBCISession_2020-02-07_12-09-54-SIX-2000ep-2000ep-2000ep.h5,True, 28,2,9,2
+,,,53,3,20,6
+,,,44,2,16,12
+,,,15,0,7,3
+
+models-eegLib-high/Deep,OpenBCISession_2020-02-10_10-55-19=ONE.2-2000ep-2000ep-2000ep.h5,True, 39,0,0,2
+,,,76,1,0,5
+,,,70,0,1,3
+,,,25,0,0,0
+
+models-eegLib-high/Deep,OpenBCISession_2020-02-14_11-09-00-SEVEN-2000ep-2000ep-2000ep.h5,True, 1,0,40,0
+,,,0,0,82,0
+,,,4,0,70,1
+,,,2,0,23,0
+
+models-eegLib-high/Deep,OpenBCISession_2020-02-14_11-43-46-EIGHT-2000ep-2000ep-2000ep.h5,True, 0,41,0,0
+,,,0,81,1,0
+,,,0,69,3,4
+,,,0,24,1,0
+
+models-eegLib-high/Deep,OpenBCISession_2020-02-23_16-49-310-VIR-2000ep-2000ep-2000ep.h5,True, 2,4,0,35
+,,,6,5,0,71
+,,,10,8,0,57
+,,,1,3,0,21
+
+models-eegLib-high/Deep,OpenBCISession_2020-02-23_18-14-52-ISH-2000ep-2000ep-2000ep.h5,True, 17,2,22,0
+,,,34,3,45,0
+,,,37,2,36,1
+,,,7,5,13,0
+
+models-eegLib-high/Deep,OpenBCISession_2020-02-29_17-19-28-ELI-2000ep-2000ep-2000ep.h5,True, 40,1,0,0
+,,,80,2,0,0
+,,,72,3,0,0
+,,,24,1,0,0
+
+models-eegLib-high/Deep,OpenBCISession_2020-02-29_17-51-57-BAHAR-2000ep-2000ep-2000ep.h5,True, 0,15,3,23
+,,,1,35,1,45
+,,,0,29,7,38
+,,,0,9,0,16
+
+models-eegLib-high/Deep,OpenBCISession_2020-03-06_10-28-17-LUKE-2000ep-2000ep-2000ep.h5,True, 7,14,0,20
+,,,19,30,1,32
+,,,12,22,3,37
+,,,5,9,0,11
+
+models-eegLib-high/Shallow,OpenBCISession_2020-02-06_11-26-48-TWO-2000ep-2000ep.h5,True, 1,0,0,40
+,,,2,0,0,80
+,,,2,0,0,72
+,,,1,0,0,24
+
+models-eegLib-high/Shallow,OpenBCISession_2020-02-06_12-08-05-THREE-2000ep-2000ep.h5,True, 0,41,0,0
+,,,0,82,0,0
+,,,0,75,0,0
+,,,0,25,0,0
+
+models-eegLib-high/Shallow,OpenBCISession_2020-02-07_10-42-36-FOUR.2-2000ep-2000ep.h5,True, 0,35,3,3
+,,,0,78,3,1
+,,,0,64,6,5
+,,,0,25,0,0
+
+models-eegLib-high/Shallow,OpenBCISession_2020-02-07_11-12-39-FIVE-2000ep-2000ep.h5,True, 0,1,0,40
+,,,0,0,0,82
+,,,0,0,0,75
+,,,0,0,0,25
+
+models-eegLib-high/Shallow,OpenBCISession_2020-02-07_12-09-54-SIX-2000ep-2000ep.h5,True, 27,0,13,1
+,,,51,0,25,6
+,,,51,0,20,3
+,,,14,0,11,0
+
+models-eegLib-high/Shallow,OpenBCISession_2020-02-10_10-55-19=ONE.2-2000ep-2000ep.h5,True, 0,22,0,19
+,,,0,43,0,39
+,,,0,38,0,36
+,,,0,13,0,12
+
+models-eegLib-high/Shallow,OpenBCISession_2020-02-14_11-09-00-SEVEN-2000ep-2000ep.h5,True, 0,41,0,0
+,,,0,82,0,0
+,,,0,75,0,0
+,,,0,25,0,0
+
+models-eegLib-high/Shallow,OpenBCISession_2020-02-14_11-43-46-EIGHT-2000ep-2000ep.h5,True, 15,0,26,0
+,,,28,0,54,0
+,,,28,0,48,0
+,,,10,0,15,0
+
+models-eegLib-high/Shallow,OpenBCISession_2020-02-23_16-49-310-VIR-2000ep-2000ep.h5,True, 0,1,38,2
+,,,0,0,76,6
+,,,0,2,72,1
+,,,0,0,25,0
+
+models-eegLib-high/Shallow,OpenBCISession_2020-02-23_18-14-52-ISH-2000ep-2000ep.h5,True, 0,0,41,0
+,,,0,0,82,0
+,,,0,1,75,0
+,,,0,0,25,0
+
+models-eegLib-high/Shallow,OpenBCISession_2020-02-29_17-19-28-ELI-2000ep-2000ep.h5,True, 40,0,0,1
+,,,80,0,0,2
+,,,72,0,0,3
+,,,24,0,0,1
+
+models-eegLib-high/Shallow,OpenBCISession_2020-02-29_17-51-57-BAHAR-2000ep-2000ep.h5,True, 8,7,26,0
+,,,23,12,47,0
+,,,15,10,47,2
+,,,2,1,22,0
+
+models-eegLib-high/Shallow,OpenBCISession_2020-03-06_10-28-17-LUKE-2000ep-2000ep.h5,True, 0,0,0,41
+,,,0,0,0,82
+,,,0,0,0,74
+,,,0,0,0,25
+
+models-eegLib-high/EEGNet,OpenBCISession_2020-02-06_11-26-48-TWO-2000ep.h5,True, 41,0,0,0
+,,,82,0,0,0
+,,,72,0,2,0
+,,,25,0,0,0
+
