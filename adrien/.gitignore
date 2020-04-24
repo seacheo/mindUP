@@ -1,0 +1,7 @@
+cnn/
+one/
+allData/
+*.h5
+*.p
+processed
+processed-10
