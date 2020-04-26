@@ -2,6 +2,9 @@ cnn/
 one/
 allData/
 *.h5
+*.mat
 *.p
 processed
 processed-10
+MW_Classes_10sec.mat
+MW_Classes.mat
