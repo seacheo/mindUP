@@ -44,7 +44,7 @@ import pickle
 import numpy as np
 from tensorflow.python.client import device_lib
 from tensorflow.keras.utils import to_categorical
-# from tensorflow import tensorflow.keras.backend as K
+from tensorflow import keras.backend as K
 # import keras
 # from tqdm.keras import TqdmCallback
 
@@ -84,7 +84,7 @@ models  = [
     [singleLSTM(clas=numClasses, sam=sam, chans=chans), False, 'singleLSTM-V1'],
     [dualLSTM(clas=numClasses, sam=sam, chans=chans), False, 'dualLSTM-V1'],
     ]
-folder=models[whichModel][2]
+folder=models(whichModel[2])
 
 def randomize(a, b, c):
     # Generate the permutation index array.
@@ -157,8 +157,8 @@ print(history.history.keys())
 pyplot.figure(figsize=(25,10), dpi=250)
 pyplot.plot(history.history['loss'], label='train')
 pyplot.plot(history.history['val_loss'], label='test')
-pyplot.plot(history.history['acc'], label='accuracy')
-pyplot.plot(history.history['val_acc'], label='test accuracy')
+pyplot.plot(history.history['accuracy'], label='accuracy')
+pyplot.plot(history.history['val_accuracy'], label='test accuracy')
 pyplot.legend()
 pyplot.savefig(folder+'/'+file + '.png')
 
