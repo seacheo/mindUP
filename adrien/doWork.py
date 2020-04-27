@@ -44,11 +44,9 @@ import pickle
 import numpy as np
 from tensorflow.python.client import device_lib
 from tensorflow.keras.utils import to_categorical
-<<<<<<< HEAD
-from tensorflow import keras.backend as K
-=======
+
 # from tensorflow import tensorflow.keras.backend as K
->>>>>>> 4fe51bb9a861ce8152e5a72a6ef1be44d3525287
+
 # import keras
 # from tqdm.keras import TqdmCallback
 
@@ -82,17 +80,19 @@ whichModel= args.modelNum
 
 
 models  = [
-    [EEGNet(nb_classes=numClasses, Chans=chans, Samples=sam), True, 'EEGNet-V1'], 
-    [ShallowConvNet(nb_classes=numClasses, Chans=chans, Samples =sam), True, 'ShallowConvNet-V1'], 
-    [DeepConvNet(nb_classes=numClasses, Chans=chans, Samples=sam), True, 'DeepConvNet-V1'],
+#     [EEGNet(nb_classes=numClasses, Chans=chans, Samples=sam), True, 'EEGNet-V1'], 
+#     [ShallowConvNet(nb_classes=numClasses, Chans=chans, Samples =sam), True, 'ShallowConvNet-V1'], 
+#     [DeepConvNet(nb_classes=numClasses, Chans=chans, Samples=sam), True, 'DeepConvNet-V1'],
     [singleLSTM(clas=numClasses, sam=sam, chans=chans), False, 'singleLSTM-V1'],
     [dualLSTM(clas=numClasses, sam=sam, chans=chans), False, 'dualLSTM-V1'],
     ]
-<<<<<<< HEAD
-folder=models(whichModel[2])
-=======
+
 folder=models[whichModel][2]
->>>>>>> 4fe51bb9a861ce8152e5a72a6ef1be44d3525287
+folder='/network/lustre/iss01/home/adrien.martel/results/'+folder
+try:
+    os.mkdir(folder)
+except:
+    print("probably exists")
 
 def randomize(a, b, c):
     # Generate the permutation index array.
@@ -104,7 +104,7 @@ def randomize(a, b, c):
     return shuffled_a, shuffled_b, shuffled_c
 
 def createData(file):
-    baseFolder='one/'
+    baseFolder='/network/lustre/iss01/home/adrien.martel/job1/one/'
     data=pickle.load(open(baseFolder+file, 'rb'))
     
     sfreq=512
@@ -165,13 +165,8 @@ print(history.history.keys())
 pyplot.figure(figsize=(25,10), dpi=250)
 pyplot.plot(history.history['loss'], label='train')
 pyplot.plot(history.history['val_loss'], label='test')
-<<<<<<< HEAD
-pyplot.plot(history.history['accuracy'], label='accuracy')
-pyplot.plot(history.history['val_accuracy'], label='test accuracy')
-=======
 pyplot.plot(history.history['acc'], label='accuracy')
 pyplot.plot(history.history['val_acc'], label='test accuracy')
->>>>>>> 4fe51bb9a861ce8152e5a72a6ef1be44d3525287
 pyplot.legend()
 pyplot.savefig(folder+'/'+file + '.png')
 
